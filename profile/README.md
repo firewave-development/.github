@@ -18,14 +18,8 @@ Welcome to Firewave Development! We're excited to have you on board. This guide 
 
 ## Setting Up Your Company Email
 
-1. As a member of [Startup Name], you will have a company email address in the format `firstname@firewave.dev`, with `firstname` being your first name. This email will be used for official communication within the organization.
-2. To set up your company email, follow these steps:
-   - Go to [Email Provider's Website] (e.g., Gmail, Outlook).
-   - Click on the "Sign Up" or "Create Account" option.
-   - Enter your first name as the username and select the domain `@firewave.dev` for your email address.
-   - Complete the sign-up process by providing any additional required information.
-3. Once your email account is created, you can access it by visiting [Email Provider's Website] and logging in with your newly created email address and password.
-4. Configure your email client or mobile device to connect to your company email account for easy access and management.
+1. As a member of Firewave, you will have a company email address in the format `firstname@firewave.dev`, with `firstname` being your first name. This email will be used for official communication within the organization.
+2. These emails are mostly used to stay consistent and easily contact other team memebers. For example, if I want to contact John Smith but don't know his email, I can just use john@firewave.dev and should be good to go.
 
 ## Using ClickUp
 
@@ -40,4 +34,5 @@ ClickUp is designed to help us streamline our project management processes. Here
 
 ## Additional Resources
 
-1. [ClickUp Help Center](https://docs
+1. [Intro to ClickUp in 2 Minutes](https://www.youtube.com/watch?v=f_exDBcGYnM)
+2. [Full Clickup Tutorial Playlist](https://youtube.com/playlist?list=PLxRzBtka0l4zRjV-3F9bvhw0x4lLvoTRF)
