@@ -4,7 +4,7 @@ Welcome to Firewave Development! We're excited to have you on board. This guide 
 
 ## GitHub Organization Access
 
-1. You should have received an email invitation to join our GitHub organization. If you haven't received it, please contact me [here](mailto:contact@firewave.dev].
+1. You should have received an email invitation to join our GitHub organization. If you haven't received it, please contact me [here](mailto:contact@firewave.dev).
 2. Click on the invitation link in the email to accept the invitation and create a GitHub account if you don't have one already.
 3. Once you're logged in to GitHub, you'll be redirected to our organization's page. Click on "Join" to become a member.
 4. Our team will review and approve your membership request. You'll receive an email notification once approved.
